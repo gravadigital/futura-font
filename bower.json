@@ -1,0 +1,23 @@
+{
+  "name": "futura-font",
+  "homepage": "https://github.com/gravadigital/futura-font",
+  "authors": [
+    "Matias Heredia <matiasheredia171292@gmail.com>"
+  ],
+  "description": "this is a repo with futura-font",
+  "main": "style.css",
+  "keywords": [
+    "font",
+    "futura",
+    "grava-digital",
+    "ivan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
