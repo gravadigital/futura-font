@@ -1,0 +1,15 @@
+{
+  "name": "futura-font",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gravadigital/futura-font.git"
+  },
+  "author": "Matias Heredia <matiasheredia171292@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gravadigital/futura-font/issues"
+  },
+  "homepage": "https://github.com/gravadigital/futura-font#readme"
+}
